@@ -1,0 +1,30 @@
+Citations:
+
+https://www.michigan.gov/msp/0,4643,7-123-1586_3501_4621-502382--,00.html
+
+2018 Murder Statistics
+https://www.michigan.gov/documents/msp/c_Murder_661290_7.pdf
+
+2018 Rape Statistics
+https://www.michigan.gov/documents/msp/d_Rape_661291_7.pdf
+
+2018 Robbery Statistics
+https://www.michigan.gov/documents/msp/e_Robbery_661292_7.pdf
+
+2018 Assault Statistics
+https://www.michigan.gov/documents/msp/f_AggAssaults_661293_7.pdf
+
+2018 Burglary Statistics
+https://www.michigan.gov/documents/msp/g_Burglary_661294_7.pdf
+
+2018 Larceny Statistics
+https://www.michigan.gov/documents/msp/h_Larceny_661295_7.pdf
+
+2018 Motor Vehicle Theft
+https://www.michigan.gov/documents/msp/i_Motor_Vehicle_Thefts_661296_7.pdf
+
+2018 Domestic Violence
+https://www.michigan.gov/documents/msp/l_Domestic_Violence_661305_7.pdf
+
+2020 Crime Data
+https://data.detroitmi.gov/datasets/rms-crime-incidents/data?geometry=-83.680%2C42.264%2C-82.518%2C42.442&where=year%20%3E%3D%202018%20AND%20year%20%3C%3D%202020
