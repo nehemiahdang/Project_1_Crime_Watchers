@@ -1,0 +1,6 @@
+source: https://compstat.nypdonline.org/2e5c3f4b-85c1-4635-83c6-22b27fe7c75c/view/90
+
+source: https://data.cityofnewyork.us/d/8h9b-rp9u/visualization
+
+
+Note: APIs not available for 2020 crime data yet - CSVs used instead

@@ -1,0 +1,8 @@
+"Year-to-date, through March 31, domestic violence crime is down 0.6% (2,809 v. 2,826); 
+and is down 15.3% (902 v. 1,065) for the entire month of March; 
+and is down 23.8% (539 v. 707) over the two weeks from March 12 through March 31, compared to the same period last year.
+Arrests in domestic violence crimes are down 15.6% (3,104 v. 3,678) for the 28-day period ending March 29."
+
+Source: https://www1.nyc.gov/site/nypd/news/p0402b/nypd-citywide-crime-statistics-march-2020
+
+Note: APIs not available for 2020 crime data yet - CSVs used instead 
